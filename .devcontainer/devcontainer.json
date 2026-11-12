@@ -1,0 +1,12 @@
+{
+  "name": "Portfolio API",
+  "forwardPorts": [
+    8000
+  ],
+  "portsAttributes": {
+    "8000": {
+      "label": "API Principal (FastAPI)",
+      "onAutoForward": "openBrowser"
+    }
+  }
+}
